@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "11ffbb8631579d8f9c78032a",
+  "owner": "ber4gyatf",
+  "repo": "page-f28b97ce62bc6e2e1a6215ba",
+  "title": "菜鸟云(RookieCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f28b97ce62bc6e2e1a6215ba",
+      "a": "菜鸟云(RookieCloud)",
+      "b": "",
+      "entity": "菜鸟云(RookieCloud)",
+      "brand": "菜鸟云(RookieCloud)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7e24c15f5849777ca0d8b43171aaf5c260daced4ecebf2adc668e8100d330514",
+      "content": {
+        "keyword1": "菜鸟云(RookieCloud)",
+        "keyword2": "",
+        "primary_entity": "菜鸟云(RookieCloud)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "菜鸟云(RookieCloud)提供机场订阅与网络加速服务，支持多端客户端下载、稳定节点与清晰套餐，便于在官网了解使用场景与操作说明。",
+          "AI_DESCRIPTION": "菜鸟云(RookieCloud)提供机场订阅与网络加速服务，支持多端客户端下载、稳定节点与清晰套餐，便于在官网了解使用场景与操作说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{box-sizing:border-box;font-size:17px}*,*:before,*:after{box-sizing:inherit}body{margin:0;background:#F6F3EE;color:#1C241C;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Noto Sans SC\",\"Microsoft YaHei\",sans-serif;line-height:1.75;word-wrap:break-word;overflow-x:hidden}a{color:#1F5D3B;text-decoration:underline}img,svg,video{max-width:100%}header,main,footer{width:100%}.bar{background:#1F5D3B;color:#F6F3EE;padding:8px 16px;font-size:0.9rem;text-align:center}.wrap{max-width:1080px;margin:0 auto;padding:20px 16px}header .top{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:12px;padding:16px 0}header .logo{font-weight:700;font-size:1.15rem;color:#1F5D3B}nav{display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#1C241C;text-decoration:none;border-bottom:2px solid #C9D8C8}h1{font-size:1.85rem;line-height:1.3;margin:12px 0 16px;color:#143D28}h2{font-size:1.4rem;margin:28px 0 12px;color:#143D28;border-left:6px solid #2D6A4F;padding-left:10px}h3{font-size:1.12rem;margin:18px 0 8px;color:#1F5D3B}p,li{color:#243024}ul,ol{padding-left:1.2em}main{display:block;background:#F6F3EE}.hero{background:#E7F0E6;border:1px solid #C9D8C8;padding:20px 18px;margin-bottom:20px}.cols{display:grid;gap:18px;grid-template-columns:1fr}.side{background:#FFFcf7;border:1px solid #D5DDD4;padding:16px}.plans{display:grid;gap:14px;grid-template-columns:1fr}.card{background:#FFFcf7;border:1px solid #D5DDD4;padding:16px;min-width:0}.card.featured{border:2px solid #1F5D3B;background:#F2F8F2}.badge{display:inline-block;background:#1F5D3B;color:#F6F3EE;padding:2px 8px;font-size:0.8rem;margin-bottom:8px}.price{font-size:1.35rem;font-weight:700;color:#1F5D3B}.muted{color:#4A554A;font-size:0.95rem}details{background:#FFFcf7;border:1px solid #C9D8C8;padding:10px 14px;margin:0 0 10px}summary{font-weight:700;color:#143D28;padding:6px 0}#faq{padding-top:8px}.faq-lead{background:#E7F0E6;padding:14px 16px;border:1px solid #C9D8C8;margin-bottom:14px}.ad{border:1px dashed #2D6A4F;padding:12px 14px;background:#FFFcf7;margin:16px 0}.friends a{display:inline-block;margin:0 10px 8px 0}.sitemap ul{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:8px 16px}footer{background:#143D28;color:#E7F0E6;margin-top:28px}footer a{color:#E7F0E6}footer .wrap{padding-top:24px;padding-bottom:28px}@media (min-width:800px){.cols{grid-template-columns:1.45fr 0.9fr}.plans{grid-template-columns:repeat(3,1fr)}h1{font-size:2.1rem}}</style><div class=\"bar\">菜鸟云(RookieCloud) 官方网站 · 机场订阅与客户端下载说明</div><header><div class=\"wrap\"><div class=\"top\"><div class=\"logo\">菜鸟云 RookieCloud</div><nav aria-label=\"页面导航\"><a href=\"#intro\">简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐</a><a href=\"#download\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></nav></div></div></header><main id=\"main\"><div class=\"wrap\"><section class=\"hero\" id=\"intro\"><h1>菜鸟云(RookieCloud)</h1><p>菜鸟云(RookieCloud)是面向学习查阅、跨境办公与团队协作的机场订阅与网络加速服务。本站为官方网站信息页，集中说明套餐、节点用途、多端客户端下载路径以及从订阅到连线的操作步骤，帮助你在连接前先把规则看清楚。</p><p>服务以可预期的月度流量、同时在线设备数和线路类型计价，不把“无限”当作卖点。旗舰线路包含 IPLC 专线游戏加速优化与原生流媒体解锁说明；基础线路覆盖日常网页、资料库与轻量音视频。所有下载入口与套餐对照均以本页公示为准。</p></section><div class=\"cols\"><article><h2>品牌简介与官方身份</h2><p>菜鸟云(RookieCloud)把“机场”理解为可订阅的节点池与客户端配置，而不是一次性账号共享。订阅地址用于在兼容客户端中更新服务器列表，VPN 加速器负责加密传输与分流。官网只提供公开说明、套餐对照和下载指引，不在页面内收集账号口令。</p><p>命名保留“菜鸟云”原意：降低第一次接触机场订阅的人的门槛。RookieCloud 是同一品牌的英文标识，用于客户端配置文件备注与官网识别，避免与其他同名加速器混淆。</p><h3>节点与线路怎么理解</h3><p>普通线路节点池适合浏览、文档同步和基础流媒体。旗舰版强调全节点原生流媒体解锁，并对游戏场景给出 IPLC 专线优化说明。团队版提供 VIP 专属高带宽节点与企业定制路由，适合多人共用同一订阅策略。具体延迟因本地运营商与时段而异，本页不以虚构测速榜单代替实测。</p><h2 id=\"scenes\">使用场景</h2><p>把加速器用在明确的任务上，比追求“全局翻遍全网”更稳妥。以下场景与菜鸟云套餐能力对应，便于选型。</p><h3>跨境办公与资料库</h3><p>远程桌面、代码仓库、设计素材站和会议工具常需要稳定出站。基础版可覆盖轻量协作；文档体积大或需要长时间会议时，旗舰版的设备数与流量更从容。</p><h3>学习 retrival 与流媒体</h3><p>课程平台、公开课与文献站点对解锁策略敏感。基础版写明解锁基础流媒体；需要更完整片库与原生解锁时选择旗舰版。请遵守各平台服务条款与所在地法规，本站仅描述连通能力。</p><h3>游戏加速与团队共用</h3><p>对延迟敏感的对战或下载补丁，可关注旗舰版 IPLC 说明。工作室、社团或小公司若要统一分流规则，团队版支持最多 20 台设备同时在线，并提供专属客户经理对接路由策略。</p></article><aside class=\"side\"><h2>官网速览</h2><p class=\"muted\">本栏按编辑式分栏列出阅读路径，方便手机单手滑动。</p><ol><li><a href=\"#plans\">对照三档套餐流量与设备数</a></li><li><a href=\"#download\">确认系统后再取客户端</a></li><li><a href=\"#guide\">按四步完成订阅导入</a></li><li><a href=\"#faq\">先看常见问题再提交工单</a></li></ol><h3>官方下载提示</h3><p>客户端安装包只通过官网下载区获取。页面内链接均为锚点，用于回到对应章节，避免误入仿冒站点。</p><p><a href=\"#download\">前往客户端下载说明</a></p></aside></div><h2 id=\"plans\">套餐对照</h2><p>价格按自然月公示，同时给出按年付合计，便于做预算。流量为每月计入的极速流量额度，周期结束按套餐规则重置。同时在线设备数指同一订阅下可保持连接的终端上限。</p><div class=\"plans\"><section class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></section><section class=\"card featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></section><section class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></section></div><h2 id=\"download\">客户端下载</h2><p>菜鸟云官方下载不绑定单一闭源壳程序。订阅兼容常见的分流客户端，你可按操作系统选择熟悉的工具，再导入官网提供的订阅链接。安装完成后回到本页<a href=\"#guide\">操作说明</a>完成连线。</p><h3>桌面端</h3><p>Windows 与 macOS 可使用 Clash 系图形客户端或同等兼容核心。注意系统代理模式：仅浏览器走代理，或让终端与开发工具一并分流。路由器刷入兼容固件时，把订阅填入科学插件的订阅栏即可让全家设备复用，但仍计入套餐设备与流量。</p><h3>移动端</h3><p>Android 可选用兼容 Clash/Meta 的应用；iOS 常用独立规则客户端（如 Shadowrocket 一类）通过订阅 URL 更新节点。请从系统官方应用来源或菜鸟云官网下载区取得安装包，不要轻信群文件转发。</p><p><a href=\"#guide\">下载完成后查看导入步骤</a></p><h2 id=\"guide\">操作说明</h2><p>下面按第一次使用的顺序书写，步骤保持简短，便于对照屏幕操作。</p><h3>第一步：确认套餐与设备</h3><p>估计每月流量：高清视频和游戏更新消耗更快，文档与网页较省。数一数电脑、手机和平板是否会同时在线，3 台以内可看基础版，5 台看旗舰版，更多终端或需要定制路由再看团队版。</p><h3>第二步：在官网完成订阅</h3><p>于官方网站选定套餐并完成支付后，控制台会出现订阅地址。请复制完整 URL，不要在聊天工具里反复转发截断参数。团队版如需企业定制路由，先通过工单说明网段与分流目标。</p><h3>第三步：导入客户端</h3><p>打开已安装的加速器客户端，选择“从 URL 更新”或“订阅管理”，粘贴地址并更新一次。成功后应看到节点列表，而不是空白配置。若更新失败，检查系统时间、本地防火墙以及是否误开了多个代理内核。</p><h3>第四步：选择节点并验证</h3><p>先选距离近或标注 IPLC/流媒体的节点，开启系统代理后访问你真正要用的网站或工具。游戏请走对应加速线路，而不是随意全局。验证网页能打开、流量开始计数后即可日常使用。旗舰版用户如遇解锁异常，可走 7x24 优先工单。</p><section id=\"faq\"><h2>常见问题</h2><div class=\"faq-lead\"><p>以下问题按新用户实际卡点排列。每条均可展开阅读完整答复，建议在提交工单前先对照自身系统与套餐。</p></div><details><summary>菜鸟云(RookieCloud)是机场还是 VPN 客户端本身？</summary><p>菜鸟云是提供机场订阅与节点池的服务品牌。VPN 加速器或分流客户端是你安装在设备上的软件，负责读取订阅、选择节点并转发流量。两者配合使用：官网交付订阅，客户端负责连线。不要把品牌名理解成必须安装某一个独家壳程序。</p></details><details><summary>如何从官网完成客户端下载并避免装到仿冒包？</summary><p>只通过菜鸟云官方网站公布的下载区或系统应用商店获取安装包。本页链接均为页内锚点，用于跳到说明章节。若有人发送来路不明的压缩包或要求关闭安全软件才能安装，应停止操作并回到官网核对名称 RookieCloud / 菜鸟云。</p></details><details><summary>机场订阅导入失败常见原因有哪些？</summary><p>典型原因包括：订阅未复制完整、客户端内核过旧、系统时间偏差过大、本机已有另一套系统代理占用端口。处理顺序是：重新复制订阅、在客户端内手动更新、关闭多余代理核心后再试。团队版若使用定制路由，需确认规则集已随订阅刷新。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>个人轻度浏览与基础流媒体选基础版（100GB / 3 设备）。需要原生流媒体解锁、游戏向 IPLC 以及 5 台设备同时在线时选旗舰版。公司或社团要 20 台设备、高带宽专属节点和客户经理对接时选团队版。年付价格已在各套餐中列出，便于按十二个月预算。</p></details><details><summary>流量用尽或设备超限时会发生什么？</summary><p>月度极速流量用尽后，连接可能降速或按控制台规则暂停极速通道，而不会在本页承诺“自动无限续上”。超过同时在线设备数时，新设备可能无法握手。可等待结算周期重置，或在官网升级套餐。流量统计以控制台为准。</p></details><details><summary>流媒体解锁失败是否说明节点全部不可用？</summary><p>不一定。片库、版权区和设备指纹都会影响播放。基础版仅承诺基础流媒体；旗舰版强调全节点原生解锁，仍建议更换对应解锁线路并清理本地 DNS 缓存后再试。若仅某个平台失败而办公网站正常，优先换节点而不是重装系统。</p></details><details><summary>团队如何安全共用订阅？</summary><p>不要把订阅 URL 发到公开群。由管理员在官网控制台管理设备与路由，成员只安装客户端并更新。企业定制路由应写明内网网段是否绕过代理，避免办公系统被全局劫持。需要变更策略时走专属客户经理或工单，而不是口头传达一串节点名称。</p></details></section><div class=\"ad\" id=\"ads\"><h2>广告与公告位</h2><p>此处为菜鸟云官网合规展示栏，用于套餐调整、维护窗口和客户端版本提示。不嵌入外部脚本，不自动跳转。若你看到要求额外付费解锁“隐藏节点榜”的弹窗，请视为非官方信息。</p></div></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><h2 id=\"sitemap\">站点地图</h2><nav class=\"sitemap\" aria-label=\"站点地图\"><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐对照</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">公告位</a></li><li><a href=\"#friends\">友情链接</a></li></ul></nav><h2 id=\"friends\">友情链接</h2><nav class=\"friends\" aria-label=\"友情链接\"><a href=\"#\">跨境办公手册</a><a href=\"#\">客户端兼容列表</a><a href=\"#\">分流规则入门</a><a href=\"#\">网络安全基础</a></nav><p>菜鸟云(RookieCloud)官方网站 · 机场订阅与加速器说明页。内容供选型与操作对照，使用网络加速服务时请遵守当地法律法规及上游平台条款。</p></div></footer>",
+          "hash": "c9403820ae1286af3bf6616e65a4818d5256c8184bdda1b8dde5717db7077a32",
+          "seo": {
+            "title": "菜鸟云(RookieCloud)官网 | 机场订阅与 VPN 加速器客户端下载",
+            "keywords": "菜鸟云,RookieCloud,菜鸟云官网,菜鸟云机场,菜鸟云VPN,机场订阅,梯子网络加速,加速器,客户端下载,官方下载",
+            "description": "菜鸟云(RookieCloud)提供机场订阅与网络加速服务，支持多端客户端下载、稳定节点与清晰套餐，便于在官网了解使用场景与操作说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cjnurhf.cn",
+    "host": "p-ff0c9e5318.cjnurhf.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "cjnurhf.cn",
+      "url": "https://cjnurhf.cn/",
+      "label": "泡芙",
+      "apex": "cjnurhf.cn",
+      "kind": null,
+      "identity": "ghc336199/page-b5a4cef20136cda8cfd6b076"
+    },
+    {
+      "host": "dantayunss.com",
+      "url": "https://dantayunss.com/",
+      "label": "菜鸟云(RookieCloud)",
+      "apex": "dantayunss.com",
+      "kind": null,
+      "identity": "tkrqemkkn/page-9d30281b28b236c54a714d3b"
+    },
+    {
+      "host": "hetongla.cn",
+      "url": "https://hetongla.cn/",
+      "label": "菜鸟云(RookieCloud)",
+      "apex": "hetongla.cn",
+      "kind": null,
+      "identity": "xscbmkdx/page-afe1d13c74d502da6f13932b"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0b49ce4d1e6fabdb9b15ac0b6b044ab2d54c826fa4a94c4e7633c9ed1a53aed2",
+    "sitemap.xml": "83e7d695854b29c08efff074903112c0a89f201f3f43abf9de7e097171219250",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dfac3af20f8aa23f43cbf456fee9457c4ca283f5e0d1d618c13144355f3bcbe2",
+    "robots.txt": "2fe9a2ceba5ea041a4660c492855dc9915003ad0d35b3b64a52a0183ca7eda3f",
+    "b1d1b66fa2a3932c9d991f76ca7236ab.txt": "647d2e9a5caf28e8b6b55f56d191a20c86217aa749587c5a00da29cd2a66eda4"
+  },
+  "revision": "7a243c3f0112d1aa4734509bd8f6541bbee728c3c9aaa97a4ed3d9c9ceb8dae9"
+}
